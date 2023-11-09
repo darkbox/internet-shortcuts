@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Internet Shortcuts
+GenericName=Internet Shortcuts
+Comment=Open Internet Shortcuts
+Exec=/opt/internet_shortcut/ishort.sh %U
+Icon=applications-internet
+Terminal=false
+Categories=Internet;
+StartupNotify=true
+MimeType=application/x-mswinurl;
